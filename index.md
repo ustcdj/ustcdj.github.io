@@ -29,28 +29,28 @@ In this project I analyzed fake customer data from an ecommerce company and used
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-<img src="images/05-title.jpg?raw=true"/>
+<img src="images/04-title.jpg?raw=true"/>
 
 ---
 **[Identify Customer Segmentation](https://github.com/ustcdj/Identify_Customer_Segmentation)**
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-<img src="images/05-title.jpg?raw=true"/>
+<img src="images/03-title.jpg?raw=true"/>
 
 ---
 **[Flower Image Classification](https://github.com/ustcdj/Image_Classification)**
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-<img src="images/05-title.jpg?raw=true"/>
+<img src="images/02-title.jpg?raw=true"/>
 
 ---
 **[Finding Donors for CharityML](https://github.com/ustcdj/Finding_Donors)**
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-<img src="images/05-title.jpg?raw=true"/>
+<img src="images/01-title.jpg?raw=true"/>
 
 
 
