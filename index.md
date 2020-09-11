@@ -19,7 +19,7 @@ In this project I analyzed fake customer data from an ecommerce company and used
 <img src="images/06-title.jpg?raw=true"/>
 
 ---
-**[Classify Disaster Response (Link)](https://github.com/ustcdj/Disaster_Response)**
+**[Classify Disaster Response (Github Link)](https://github.com/ustcdj/Disaster_Response)**
 [Web App Link](https://dj-disaster-response-webapp.herokuapp.com/)**
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
