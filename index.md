@@ -20,6 +20,8 @@ Preventing churn is key to improving revenue for Sparkify, a subscription-based 
 
 This project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. Recommending articles that are most pertinent to specific users is beneficial to both service providers and users.  
 
+<img src="images/06-title.jpg?raw=true"/>
+
 ---
 **[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)**  
 **[Web App Link](https://dj-disaster-response-webapp.herokuapp.com/)**
