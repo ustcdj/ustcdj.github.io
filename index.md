@@ -1,29 +1,25 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)
+<img src="images/07-title.jpg?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Recommendation Engine with IBM](https://github.com/ustcdj/Recommendation_Engine_with_IBM)
+<img src="images/06-title.jpg?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)
+<img src="images/05-title.jpg?raw=true"/>
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Airbnb List Price Analysis](https://github.com/ustcdj/Airbnb_Pricing)
+- [Identify Customer Segmentation](https://github.com/ustcdj/Identify_Customer_Segmentation)
+- [Flower Image Classification](https://github.com/ustcdj/Image_Classification)
+- [Finding Donors for CharityML](https://github.com/ustcdj/Finding_Donors)
 
 ---
 
@@ -31,5 +27,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
