@@ -1,11 +1,12 @@
 title: DJ Dong # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Highly analytical and detail-oriented data scientist who knows SQL, Python and SAS. Has a deep level of understanding of mathematics including but not limited to linear algebra and multivariable calculus.
+  Highly analytical and detail-oriented data scientist. Skilled in data analysis and visualization, and familiar with machine learning algorithms such as supervised learning, unsupervised learning, neuron networks. Excellent written and oral communication skills built from years of presenting analysis results to seniro management.
 
   <br><br>
-  Skilled in data analysis and visualization, and familiar with machine learning algorithms such as linear and logistic regression, k nearest neighbors, decision trees and random forests, and deep neural nets. Excellent written and oral communication skills built from teaching college level mathematics to non-math majors.
+Skills: Python, SQL, Tableau, SAS, Git, Data Science, Machine Learning
 
+Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, pytorch, nltk
   <br><br>
   <a href="https://www.linkedin.com/in/ustcdj/">My Resume</a>
 
