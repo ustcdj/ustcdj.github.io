@@ -5,13 +5,14 @@
 ## Projects
 
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**  
-**[(Blog Link @Medium)](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
 
 *Toolkit: Supervised Learning (classification), Python, Spark, AWS*
 
 Preventing churn is key to improving revenue for Sparkify, a subscription-based company (fictitious). This project is to analyze data from Sparkify to build a model to predict user churn. First, a sample dataset (128MB) was used on a local machine to explore relevant features and develop a working model. Then similar steps were used to develop a final working model for the full dataset(12GB) on the AWS cloud.
 
-<img src="images/07-title.jpg?raw=true"/>
+<img src="images/07-title.jpg?raw=true"/>  
+
+**[Blog Post @Medium)](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
 
 ---
 **[Recommendation Engine with IBM](https://github.com/ustcdj/Recommendation_Engine_with_IBM)**  
@@ -21,8 +22,7 @@ Preventing churn is key to improving revenue for Sparkify, a subscription-based 
 This project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they might like. Recommending articles that are most pertinent to specific users is beneficial to both service providers and users.  
 
 ---
-**[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)**
-**[(Web App Link)](https://dj-disaster-response-webapp.herokuapp.com/)**
+**[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)**  
 
 *Toolkit: Supervised Learning (classification), NLP, Python, SQL, HTML/CSS/JavaScript*
 
@@ -30,15 +30,18 @@ During disaster events, sending messages to appropriate disaster relief agencies
 
 <img src="images/05-title.jpg?raw=true"/>
 
+**[Web App](https://dj-disaster-response-webapp.herokuapp.com/)**
+
 ---
 **[Airbnb List Price Analysis](https://github.com/ustcdj/Airbnb_Pricing)**  
-**[(Blog Link @Medium)](https://medium.com/@ustcdj/wanna-make-more-money-on-airbnb-e7549453d5b0)**
 
 *Toolkit: Supervised Learning (regression), Statistics, Python*
 
 This project is to analyze and compare Airbnb listing price in Boston and Seattle, to find any trends, and to identify what factors affect the Airbnb listing price.
 
 <img src="images/04-title.jpg?raw=true"/>
+
+**[Blog Post @Medium](https://medium.com/@ustcdj/wanna-make-more-money-on-airbnb-e7549453d5b0)**
 
 ---
 **[Identify Customer Segmentation](https://github.com/ustcdj/Identify_Customer_Segmentation)**
