@@ -2,6 +2,13 @@
 
 ---
 
+## Tools
+
+Skills: Python, SQL, Git, Tableau, SAS, Data Science, Machine Learning
+Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, plotly, pytorch, nltk
+
+---
+
 ## Projects done @Udacity
 
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
