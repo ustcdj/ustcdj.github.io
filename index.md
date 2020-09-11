@@ -7,7 +7,7 @@
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**  
 **[Blog Link](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
 
-`Toolkit: Supervised Learning (classification), Python, Spark, AWS`
+```Toolkit: Supervised Learning (classification), Python, Spark, AWS```
 
 Preventing churn is key to improving revenue for Sparkify, a subscription-based company (fictitious). This project is to analyze data from Sparkify to build a model to predict user churn. First, a sample dataset (128MB) was used on a local machine to explore relevant features and develop a working model. Then similar steps were used to develop a final working model for the full dataset(12GB) on the AWS cloud.
 
