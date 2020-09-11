@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects
+## Projects
 
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
 
@@ -12,30 +12,45 @@ In this project I analyzed fake customer data from an ecommerce company and used
 
 ---
 **[Recommendation Engine with IBM](https://github.com/ustcdj/Recommendation_Engine_with_IBM)**
+
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
 <img src="images/06-title.jpg?raw=true"/>
 
 ---
 **[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)**
+
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
 <img src="images/05-title.jpg?raw=true"/>
 
 ---
+**[Airbnb List Price Analysis](https://github.com/ustcdj/Airbnb_Pricing)**
 
-### Category Name 2
+In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-- **[Airbnb List Price Analysis](https://github.com/ustcdj/Airbnb_Pricing)**
-
-- **[Identify Customer Segmentation](https://github.com/ustcdj/Identify_Customer_Segmentation)**
-
-- **[Flower Image Classification](https://github.com/ustcdj/Image_Classification)**
-
-- **[Finding Donors for CharityML](https://github.com/ustcdj/Finding_Donors)**
+<img src="images/05-title.jpg?raw=true"/>
 
 ---
+**[Identify Customer Segmentation](https://github.com/ustcdj/Identify_Customer_Segmentation)**
 
+In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
+
+<img src="images/05-title.jpg?raw=true"/>
+
+---
+**[Flower Image Classification](https://github.com/ustcdj/Image_Classification)**
+
+In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
+
+<img src="images/05-title.jpg?raw=true"/>
+
+---
+**[Finding Donors for CharityML](https://github.com/ustcdj/Finding_Donors)**
+
+In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
+
+<img src="images/05-title.jpg?raw=true"/>
 
 
 
