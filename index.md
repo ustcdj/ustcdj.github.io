@@ -2,7 +2,7 @@
 
 ---
 
-##
+## Projects
 
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
 **[Blog Link](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
@@ -46,7 +46,7 @@ In this project I analyzed fake customer data from an ecommerce company and used
 
 In this project I analyzed fake customer data from an ecommerce company and used linear regression to help them decide whether to focus their efforts on their website or their mobile app.  I used Python's Seaborn and Pandas packages to visualize the data and scikit-learn to create the linear regression.
 
-<img src="images/02-title.jpg?raw=true"/>
+<img src="images/02-title.png?raw=true"/>
 
 ---
 **[Finding Donors for CharityML](https://github.com/ustcdj/Finding_Donors)**
