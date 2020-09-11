@@ -5,7 +5,7 @@
 ## Projects
 
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**  
-**[Blog Link](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
+> **[Blog Link](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
 
 *Toolkit: Supervised Learning (classification), Python, Spark, AWS*
 
@@ -24,7 +24,7 @@ This project is to analyze the interactions that users have with articles on the
 
 ---
 **[Classify Disaster Response](https://github.com/ustcdj/Disaster_Response)**  
-**[Web App Link](https://dj-disaster-response-webapp.herokuapp.com/)**
+> **[Web App Link](https://dj-disaster-response-webapp.herokuapp.com/)**
 
 *Toolkit: Supervised Learning (classification), NLP, Python, SQL, HTML/CSS/JavaScript*
 
@@ -34,7 +34,7 @@ During disaster events, sending messages to appropriate disaster relief agencies
 
 ---
 **[Airbnb List Price Analysis](https://github.com/ustcdj/Airbnb_Pricing)**  
-**[Blog Link](https://medium.com/@ustcdj/wanna-make-more-money-on-airbnb-e7549453d5b0)**
+> **[Blog Link](https://medium.com/@ustcdj/wanna-make-more-money-on-airbnb-e7549453d5b0)**
 
 *Toolkit: Supervised Learning (regression), Statistics, Python*
 
