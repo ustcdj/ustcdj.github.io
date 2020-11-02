@@ -4,13 +4,14 @@
 
 ## Projects
 
-**[Recommendation Engine with IBM](https://github.com/ustcdj/Recommendation_Engine_with_IBM)**  
+**[Forecast Monthly Vehicle Sales](https://github.com/ustcdj/Forecast_Monthly_Vehicle_Sales)**
 
-*Toolkit: Machine learning (collaborative filtering), Python, pandas, numpy, matplotlib*
+*Toolkit: Time series forecasting, Python, pandas, numpy, matplotlib, seaborn, scipy, statsmodels, sklearn*
 
-Recommending articles that are most pertinent to specific users is beneficial to both service providers and users. Using three mainstream approaches - (1) Rank Based, (2) User-User Based Collaborative Filtering, and (3) Matrix Factorization, I developed an article recommendation engine for the IBM Watson Studio platform.
+Using time series forecasting, analyzed monthly vehicle sales in the United States between January 1976 and November 2019, found the overall trend over time and made
+forecasts for vehicle sales in December 2019 and May 2020.
 
-<img src="images/06-title.jpg?raw=true"/>
+<img src="images/08-title.png?raw=true"/>
 
 ---
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
