@@ -11,7 +11,7 @@
 Using time series forecasting, analyzed monthly vehicle sales in the United States between January 1976 and November 2019, found the overall trend over time and made
 forecasts for vehicle sales in December 2019 and May 2020.
 
-<img src="images/08-title.jpg?raw=true"/>
+<img src="images/08-title.png?raw=true"/>
 
 ---
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
