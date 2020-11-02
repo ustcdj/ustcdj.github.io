@@ -4,6 +4,15 @@
 
 ## Projects
 
+**[Recommendation Engine with IBM](https://github.com/ustcdj/Recommendation_Engine_with_IBM)**  
+
+*Toolkit: Machine learning (collaborative filtering), Python, pandas, numpy, matplotlib*
+
+Recommending articles that are most pertinent to specific users is beneficial to both service providers and users. Using three mainstream approaches - (1) Rank Based, (2) User-User Based Collaborative Filtering, and (3) Matrix Factorization, I developed an article recommendation engine for the IBM Watson Studio platform.
+
+<img src="images/06-title.jpg?raw=true"/>
+
+---
 **[Predict Sparkify User Churn](https://github.com/ustcdj/Sparkify_Churn_Analysis)**
 > **[Blog Link](https://medium.com/@ustcdj/sparkify-udacity-data-science-capstone-project-b273b4ab1c8d)**
 
