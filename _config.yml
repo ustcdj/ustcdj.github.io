@@ -1,6 +1,13 @@
 title: DJ Dong # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+
+  <a href="https://ustcdj.github.io/resume/">My Resume</a>
+
+  <br><br>
+  <a href="https://www.linkedin.com/in/ustcdj/">My LinkedIn</a>
+  <br><br>
+  
   5 years SQL
   <br>
   5 years Tableau
@@ -15,19 +22,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Tools: Python, SQL, SAS, Tableau, Spark, Git, AWS
 
-
   <br><br>
   Love using data to answer business questions, deliver effective and impactful solutions.
   Highly analytical and detail-oriented. Skilled in data analysis and visualization,
   and proficient at machine learning algorithms such as supervised learning and unsupervised learning.
   Excellent written and oral communication skills built from years of presenting analysis results to
   senior management.
-
-  <br><br>
-  <a href="https://ustcdj.github.io/resume/">My Resume</a>
-
-  <br><br>
-  <a href="https://www.linkedin.com/in/ustcdj/">My LinkedIn</a>
 
 
 
